@@ -30,5 +30,5 @@ Broadcast Videos "
 ## Task before next meeting
 - Finish downloading the data and replicating the work
 - Read both papers that are provided in supporting_materials.docx
-- Start searching for the recent research papers on **scene
-text recognition**
+- Start searching for the recent research papers on **scene text recognition**
+- Checkout Colab
