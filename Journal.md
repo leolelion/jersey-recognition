@@ -13,6 +13,9 @@
 - Downloaded and setup SoccerNet tracklets/data
 - Working on replication of [Mkoshkina](https://openaccess.thecvf.com/content/CVPR2024W/CVsports/papers/Koshkina_A_General_Framework_for_Jersey_Number_Recognition_in_Sports_Video_CVPRW_2024_paper.pdf)
 - Created my Venv in conda 
-
+### Henry
+- Downloaded and setup the SoccerNet data and framework
+- Reading "A General Framework for Jersey Number Recognition in Sports Video" and "Jersey Number Recognition using Keyframe Identification from Low-Resolution
+Broadcast Videos "
 
 ## Task before next meeting
