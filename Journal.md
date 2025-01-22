@@ -24,3 +24,7 @@ Broadcast Videos "
 - Reading [Mkoshkina](https://openaccess.thecvf.com/content/CVPR2024W/CVsports/papers/Koshkina_A_General_Framework_for_Jersey_Number_Recognition_in_Sports_Video_CVPRW_2024_paper.pdf) as well as [Low resolution Jersey Number Recognition](https://arxiv.org/pdf/2309.06285v1)
 
 ## Task before next meeting
+- Finish downloading the data and replicating the work
+- Read both papers that are provided in supporting_materials.docx
+- Start searching for the recent research papers on **scene
+text recognition**
