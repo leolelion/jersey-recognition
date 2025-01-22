@@ -22,6 +22,10 @@ Broadcast Videos "
 - Setup [Mkoshkina](https://openaccess.thecvf.com/content/CVPR2024W/CVsports/papers/Koshkina_A_General_Framework_for_Jersey_Number_Recognition_in_Sports_Video_CVPRW_2024_paper.pdf)
 - Downloading SoccerNet data
 - Reading [Mkoshkina](https://openaccess.thecvf.com/content/CVPR2024W/CVsports/papers/Koshkina_A_General_Framework_for_Jersey_Number_Recognition_in_Sports_Video_CVPRW_2024_paper.pdf) as well as [Low resolution Jersey Number Recognition](https://arxiv.org/pdf/2309.06285v1)
+### Antonio 
+- Set up conda venv
+- Began replicating, but working through errors: [Mkoshkina](https://openaccess.thecvf.com/content/CVPR2024W/CVsports/papers/Koshkina_A_General_Framework_for_Jersey_Number_Recognition_in_Sports_Video_CVPRW_2024_paper.pdf)
+- Reading supplied readings
 
 ## Task before next meeting
 - Finish downloading the data and replicating the work
