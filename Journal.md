@@ -35,6 +35,11 @@ Broadcast Videos "
 
 # Third Week 29/Jan/2025
 ## Work done
-
+### Tanner 
 - Setting up environment, Got testing working for soccernet and I believe training as well.
 - Going to try get CoLab working potientially
+### Henry
+- Read two papers on Jersey Number Recognition
+- Setup the code for the jersey-number-pipeline
+- Testing the inference and training of the model
+- Setting up the google colab
