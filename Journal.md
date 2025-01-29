@@ -32,3 +32,9 @@ Broadcast Videos "
 - Read both papers that are provided in supporting_materials.docx
 - Start searching for the recent research papers on **scene text recognition**
 - Checkout Colab
+
+# Third Week 29/Jan/2025
+## Work done
+
+- Setting up environment, Got testing working for soccernet and I believe training as well.
+- Going to try get CoLab working potientially
