@@ -43,3 +43,10 @@ Broadcast Videos "
 - Setup the code for the jersey-number-pipeline
 - Testing the inference and training of the model
 - Setting up the google colab
+
+# Fourth Week 05/Feb/2025
+## Work Done
+### Tanner 
+- Set environment up completely. Fixed all the dependency issues. Was able to reproduce the results from the [Mkoshkina](https://openaccess.thecvf.com/content/CVPR2024W/CVsports/papers/Koshkina_A_General_Framework_for_Jersey_Number_Recognition_in_Sports_Video_CVPRW_2024_paper.pdf) paper.
+- Read research paper on Scene text recognition. Trying to understand what we can improve on in this pipeline (Most likely will be pulling a component out and putting a new one in I think)
+  
