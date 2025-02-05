@@ -43,6 +43,9 @@ Broadcast Videos "
 - Setup the code for the jersey-number-pipeline
 - Testing the inference and training of the model
 - Setting up the google colab
+### Leo
+- Still setting up on local machine
+- Reviewed the tools used in the pipeline
 
 # Fourth Week 05/Feb/2025
 ## Work Done
