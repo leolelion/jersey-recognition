@@ -48,7 +48,10 @@ Broadcast Videos "
 - Reviewed the tools used in the pipeline
 ### Antonio 
 - Still setting up on local machine
-- Trying google colab approach, since M1 mac lacks cuda 
+- Trying google colab approach, since M1 mac lacks cuda
+### Imam
+- Setting up the project in Google Colab
+- Encountered issues with the pipelines multiple virtual env setup.
 
 # Fourth Week 05/Feb/2025
 ## Work Done
@@ -57,8 +60,14 @@ Broadcast Videos "
 - Read research paper on Scene text recognition. Trying to understand what we can improve on in this pipeline (Most likely will be pulling a component out and putting a new one in I think)
 ### Antonio 
 - Got model working locally, but ran into memory leak
+### Imam
+- Replicated the pipeline in remote desktop
+- Resolved all dependency issues
 
 # Fifth Week 12/Feb/2025
 ## Work Done
 ### Antonio 
-- Reading research papers 
+- Reading research papers
+### Imam
+- Looked into the background study
+- Potential areas of improvements - adding DeblurGAN-v2 to tackle motion blur
