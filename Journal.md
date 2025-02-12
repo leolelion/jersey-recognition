@@ -71,3 +71,7 @@ Broadcast Videos "
 ### Imam
 - Looked into the background study
 - Potential areas of improvements - adding DeblurGAN-v2 to tackle motion blur
+### Tanner
+- Looked into potential replacement parts for the pipeline. Looked into scene text recognition for hazy/blurry weather.
+- looked into the bench marks for vitpose and parseq
+
