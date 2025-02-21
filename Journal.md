@@ -75,3 +75,10 @@ Broadcast Videos "
 - Looked into potential replacement parts for the pipeline. Looked into scene text recognition for hazy/blurry weather.
 - looked into the bench marks for vitpose and parseq
 
+# Sixth Week 21/Feb/2025
+## Work Done 
+### Tanner 
+- Read the required papers discussed from last meeting
+- Looking for better models to swap into pipeline. Found 2.
+
+ 
