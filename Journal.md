@@ -74,11 +74,18 @@ Broadcast Videos "
 ### Tanner
 - Looked into potential replacement parts for the pipeline. Looked into scene text recognition for hazy/blurry weather.
 - looked into the bench marks for vitpose and parseq
+### Mariya
+- Read and reviewed [Mkoshkina](https://openaccess.thecvf.com/content/CVPR2024W/CVsports/papers/Koshkina_A_General_Framework_for_Jersey_Number_Recognition_in_Sports_Video_CVPRW_2024_paper.pdf)
+- Downloaded soccernet dataset
+- Tried setting up project on google collab, but ran into issues.
 
 # Sixth Week 21/Feb/2025
 ## Work Done 
 ### Tanner 
 - Read the required papers discussed from last meeting
 - Looking for better models to swap into pipeline. Found 2.
-
+### Mariya
+- Looked into newer models that could enhance the pipeline. 
+- Assessed the different benchmarks for newer models compared to the existing ones in the pipeline.
+- Looked at the output files from Tanners replication to assess the efficiency of the current models in the pipeline, and where improvements can be made. 
  
