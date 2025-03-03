@@ -58,16 +58,21 @@ Broadcast Videos "
 ### Tanner 
 - Set environment up completely. Fixed all the dependency issues. Was able to reproduce the results from the [Mkoshkina](https://openaccess.thecvf.com/content/CVPR2024W/CVsports/papers/Koshkina_A_General_Framework_for_Jersey_Number_Recognition_in_Sports_Video_CVPRW_2024_paper.pdf) paper.
 - Read research paper on Scene text recognition. Trying to understand what we can improve on in this pipeline (Most likely will be pulling a component out and putting a new one in I think)
+### Leo 
+- Ran model on laptop, memory leak, looking into alternatives for running the project
 ### Antonio 
 - Got model working locally, but ran into memory leak
 ### Imam
 - Replicated the pipeline in remote desktop
 - Resolved all dependency issues
+  
 
 # Fifth Week 12/Feb/2025
 ## Work Done
 ### Antonio 
 - Reading research papers
+### Leo 
+- Reading relevant papers on jersey recognition and finding additional datasets
 ### Imam
 - Looked into the background study
 - Potential areas of improvements - adding DeblurGAN-v2 to tackle motion blur
@@ -81,6 +86,8 @@ Broadcast Videos "
 
 # Sixth Week 21/Feb/2025
 ## Work Done 
+### Leo 
+- Looked into models with better performance, to find which models could be swapped. Read more papers about jersey recognition.
 ### Tanner 
 - Read the required papers discussed from last meeting
 - Looking for better models to swap into pipeline. Found 2.
