@@ -94,5 +94,37 @@ Broadcast Videos "
 ### Mariya
 - Looked into newer models that could enhance the pipeline. 
 - Assessed the different benchmarks for newer models compared to the existing ones in the pipeline.
-- Looked at the output files from Tanners replication to assess the efficiency of the current models in the pipeline, and where improvements can be made. 
+- Looked at the output files from Tanners replication to assess the efficiency of the current models in the pipeline, and where improvements can be made.
+
+# Seventh week 26/Feb/2025
+## Work Done
+
+### Tanner 
+- Working on Project proposal and task deligation
+- Looking into RESNET50 for legibility classifier
+
+# Eighth Week 5/March/2025 
+## Work Done 
+
+### Tanner 
+- Setting up more powerful environment for running entire pipeline since my desktop is now getting MEM errors
+- Working on implementing RESNET50
+
+# Ninth Week 12/March/2025
+# Work Done
+
+### Tanner 
+- Got environemnt replicated again
+- Implemented resnet50 into pipeline
+- Got slightly bettern results than SOTA pipeline
+
+# Tenth week 19/March/2025 
+## Work Done 
+
+### Tanner 
+- Fine tuned legibility classifier and resnet50 with weakly labelled datasets
+- Fine tuned parseq on weakly labelled dataset
+- Results were again slightly better than our previous and SOTA
+- Used deblurred challenge dataset on EVAL ai (3% improvement from SOTA)
+- Working on training new legibility classifier and fine tune parseq on new deblurred dataset and comparing it to previous results
  
