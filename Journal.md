@@ -102,6 +102,8 @@ Broadcast Videos "
 ### Tanner 
 - Working on Project proposal and task deligation
 - Looking into RESNET50 for legibility classifier
+### Leo 
+- Researching superresolution models
 
 # Eighth Week 5/March/2025 
 ## Work Done 
@@ -109,6 +111,9 @@ Broadcast Videos "
 ### Tanner 
 - Setting up more powerful environment for running entire pipeline since my desktop is now getting MEM errors
 - Working on implementing RESNET50
+### Leo 
+- Researching superresolution models, specifically for Scene Text Recognition (STR)
+- Working on implementing PERN, a superresolution model for STR
 
 # Ninth Week 12/March/2025
 # Work Done
@@ -117,6 +122,9 @@ Broadcast Videos "
 - Got environemnt replicated again
 - Implemented resnet50 into pipeline
 - Got slightly bettern results than SOTA pipeline
+### Leo 
+- Working on implementing PERN, a superresolution model for STR, running into issues implementing on local machine
+- Looking into alternative models
 
 # Tenth week 19/March/2025 
 ## Work Done 
@@ -126,5 +134,7 @@ Broadcast Videos "
 - Fine tuned parseq on weakly labelled dataset
 - Results were again slightly better than our previous and SOTA
 - Used deblurred challenge dataset on EVAL ai (3% improvement from SOTA)
-- Working on training new legibility classifier and fine tune parseq on new deblurred dataset and comparing it to previous results
+- Working on training new legibility classifier and fine tune parseq on new deblurred dataset and comparing it to previous result
+### Leo 
+- Ran Post Legibility Classifier Crops through Real-ESRGAN Superresolution model
  
