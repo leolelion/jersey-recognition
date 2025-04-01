@@ -104,6 +104,15 @@ Broadcast Videos "
 - Looking into RESNET50 for legibility classifier
 ### Leo 
 - Researching superresolution models
+### Mariya
+- Working on project proposal.
+- Researching PCT and its benchmarks.
+### Antonio
+- Working on project proposal.
+### Henry
+- Working on project proposal.
+### Imam
+- Working on project proposal and task deligation
 
 # Eighth Week 5/March/2025 
 ## Work Done 
@@ -114,6 +123,12 @@ Broadcast Videos "
 ### Leo 
 - Researching superresolution models, specifically for Scene Text Recognition (STR)
 - Working on implementing PERN, a superresolution model for STR
+### Mariya
+- Working on implementing PCT. Set up environment.
+### Antonio
+- Working on implementing data augmentation using augmix library.
+### Henry
+- Working on implementing superresolution model for scene text recognition.
 
 # Ninth Week 12/March/2025
 # Work Done
@@ -125,6 +140,12 @@ Broadcast Videos "
 ### Leo 
 - Working on implementing PERN, a superresolution model for STR, running into issues implementing on local machine
 - Looking into alternative models
+### Mariya
+- Ran into errs with PCT due to my local machine restrictions, working on resolving them. 
+### Antonio
+- Trying different types of augmentations on the data.
+### Henry
+- Working on implementing superresolution, also running into issues.
 
 # Tenth week 19/March/2025 
 ## Work Done 
@@ -137,4 +158,30 @@ Broadcast Videos "
 - Working on training new legibility classifier and fine tune parseq on new deblurred dataset and comparing it to previous result
 ### Leo 
 - Ran Post Legibility Classifier Crops through Real-ESRGAN Superresolution model
+### Mariya 
+- Working on final report slides and report.
+- Set up PCT and ran testing on a frame but ran into bounding box errors, decided to scrap it due to decent existing pose model performance.
+### Antonio
+- Working on extracting tracklets and frames into appropriate formats from diy dataset filming.
+### Henry
+- Ran Post legibility classifier crops through the Superresolution model. 
  
+# Eleventh week 26/March/2025 
+## Work Done 
+
+### Tanner
+- Working on final report slides.
+- Submitted results into evalai.
+- Worked on finetuning resnet and improving its performace. 
+- Ran the diy dataset extracted framed through baseline model and proposed model. 
+### Mariya
+- Working on final report slides.
+### Antonio
+- Working on slides.
+### Henry
+- Working on slides.
+### Leo
+- Working on slides. 
+### Imam
+- Working on slides.
+
