@@ -116,7 +116,7 @@ Broadcast Videos "
 ### Antonio
 - Working on project proposal.
 ### Henry
-- Working on project proposal.
+- Working on project proposal, specifically for the literature review and model architecture.
 
 
 # Eighth Week 5/March/2025 
@@ -176,7 +176,10 @@ Broadcast Videos "
 ### Antonio
 - Working on extracting tracklets and frames into appropriate formats from diy dataset filming.
 ### Henry
-- Ran Post legibility classifier crops through the Superresolution model. 
+- Ran Post legibility classifier crops through the Superresolution model.
+- Making the dataset for the new dataset for demo.
+- Setting up the device for demonstration in the class.
+- Fixed bugs with last part of the pipeline where it is causing issues for cases where there is single frame left after the model processing.
 
 # Eleventh week 26/March/2025 
 ## Work Done 
@@ -192,6 +195,7 @@ Broadcast Videos "
 - Working on slides.
 ### Henry
 - Working on slides.
+- Working on final reports.
 ### Leo
 - Working on slides. 
 ### Imam
