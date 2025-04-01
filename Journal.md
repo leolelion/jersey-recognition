@@ -95,6 +95,9 @@ Broadcast Videos "
 - Looked into newer models that could enhance the pipeline. 
 - Assessed the different benchmarks for newer models compared to the existing ones in the pipeline.
 - Looked at the output files from Tanners replication to assess the efficiency of the current models in the pipeline, and where improvements can be made.
+### Imam
+- Looked into other data preprocessing techniques.
+- Figured that super resolution is necessary for further improvement.
 
 # Seventh week 26/Feb/2025
 ## Work Done
@@ -104,6 +107,9 @@ Broadcast Videos "
 - Looking into RESNET50 for legibility classifier
 ### Leo 
 - Researching superresolution models
+### Imam
+- Setting up the environment for DeblurGANv2.
+- Resolved all dependency issues.
 
 # Eighth Week 5/March/2025 
 ## Work Done 
@@ -114,6 +120,9 @@ Broadcast Videos "
 ### Leo 
 - Researching superresolution models, specifically for Scene Text Recognition (STR)
 - Working on implementing PERN, a superresolution model for STR
+### Imam
+- Replicated DeblurGANv2 as mentioned in the paper.
+- Ran it on both pretrained backbone.
 
 # Ninth Week 12/March/2025
 # Work Done
@@ -125,6 +134,8 @@ Broadcast Videos "
 ### Leo 
 - Working on implementing PERN, a superresolution model for STR, running into issues implementing on local machine
 - Looking into alternative models
+### Imam
+- Applied DeBlurGANv2 on train and test dataset.
 
 # Tenth week 19/March/2025 
 ## Work Done 
@@ -137,4 +148,13 @@ Broadcast Videos "
 - Working on training new legibility classifier and fine tune parseq on new deblurred dataset and comparing it to previous result
 ### Leo 
 - Ran Post Legibility Classifier Crops through Real-ESRGAN Superresolution model
+### Imam
+- Ran DeblurGANv2 on challenge dataset and the legibility classifer image set
+
+# Eleventh Week 25/March/2025
+
+### Imam
+- Polishing the project and getting everything wrapped up for the presentation.
+- Worked on the presentation slides.
+
  
