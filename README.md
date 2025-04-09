@@ -48,6 +48,7 @@ We include the version of the PARSeq code that was used to fine-tune the jersey 
 * [Hockey fine-tuned](https://drive.google.com/file/d/1FyM31xvSXFRusN0sZH0EWXoHwDfB9WIE/view?usp=sharing)
 * [SoccerNet fine-tuned](https://drive.google.com/file/d/1uRln22tlhneVt3P6MePmVxBWSLMsL3bm/view?usp=sharing)
 
+*[COSC419/519 Legibility classifier and Fine-tuned Parseq Model](https://ubcca-my.sharepoint.com/:f:/g/personal/tanner_wright_ubc_ca/Eonl4oZU0NNArTTGM0f52VoBIe9OQg1-M3P-ycNFcrpWjg?e=2hNnNh)
 
 ## Data:
 SoccerNet Jersey Number Recognition:
