@@ -44,10 +44,8 @@ them under jersey-number-pipeline/pose/ViTPose/checkpoints/.
 
 ### PARSeq:
 We include the version of the PARSeq code that was used to fine-tune the jersey number model as part of this repo. The original PARSeq repo is [https://github.com/baudm/parseq](https://github.com/baudm/parseq). Model weights should be downloaded and placed under jersey-number-pipeline/models/. 
-* [Original model weights](https://drive.google.com/file/d/1AK_GnM6pIYyfIf3tBYSKIyR3Fa3Z46Cx/view?usp=sharing)
-* [Hockey fine-tuned](https://drive.google.com/file/d/1FyM31xvSXFRusN0sZH0EWXoHwDfB9WIE/view?usp=sharing)
-* [SoccerNet fine-tuned](https://drive.google.com/file/d/1uRln22tlhneVt3P6MePmVxBWSLMsL3bm/view?usp=sharing)
 
+Download these and add them to the models folder
 *[COSC419/519 Legibility classifier and Fine-tuned Parseq Model](https://ubcca-my.sharepoint.com/:f:/g/personal/tanner_wright_ubc_ca/Eonl4oZU0NNArTTGM0f52VoBIe9OQg1-M3P-ycNFcrpWjg?e=2hNnNh)
 
 ## Data:
